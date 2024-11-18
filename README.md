@@ -18,7 +18,7 @@ This project written in [Go](https://go.dev).
 2. Go to `Project settings > Service accounts`
 3. On `Firebase Admin SDK` choose `Generate new private key`
 4. Place the private key downloaded on `config` directory of this project
-5. Create `.env` on the root of this project by copy-paste `.env.example` provided (more on **Environment Variables** section)
+5. Create `.env` on the root of this project by copy-paste `.env.example` provided (more on **[Environment Variables](#environment-variables)** section)
 6. Install dependencies
    ```bash
    go mod download
