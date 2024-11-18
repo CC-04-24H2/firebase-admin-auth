@@ -8,7 +8,7 @@ App feature:
 
 - Verify ID token
 
-This simple app is an admin app for [firebase-auth](https://github.com/CC-04-24H2/firebase-auth) project.
+This simple app is an admin app for [firebase-auth](https://github.com/CC-04-24H2/firebase-auth) project. The goals of this project is to explain the flow to use Firebase Auth on a custom backend service.
 
 This project written in [Go](https://go.dev).
 
